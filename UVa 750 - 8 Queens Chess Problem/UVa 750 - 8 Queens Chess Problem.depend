@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1455326450 source:c:\users\mehdi\documents\acm\uva 750 - 8 queens chess problem\main.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+

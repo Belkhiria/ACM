@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1455533203 source:c:\users\mehdi\documents\acm\github uva 10360 - rat attack\main.cpp
+	<stdio.h>
+	<string.h>
+	<algorithm>
+
